@@ -22,5 +22,10 @@
    "repository":  "DirtyUnicorns/android_hardware_qcom_audio",
    "target_path": "hardware/qcom/audio",
    "branch":      "p9x-caf"
+ },
+ {
+   "repository":  "https://gitlab.com/AquariOS/vendor_pixelgapps",
+   "target_path": "vendor/pixelgapps",
+   "branch":      "a9"
  }
 ]
